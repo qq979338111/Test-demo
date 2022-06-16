@@ -305,10 +305,11 @@ export default {
 .Carousel {
   margin-top: 40px;
   width: 98%;
-  background-color: #909399;
-  height: 300px;
+  background-color: #fdfdff;
+  height: 340px;
   margin-bottom: 50px;
   text-align: center;
+  border: 1px solid #8e8f91;
 }
 .content-flex {
   display: flex;
